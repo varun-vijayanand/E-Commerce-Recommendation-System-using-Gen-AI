@@ -89,20 +89,3 @@ The project relies on the following major dependencies:
 
 For a complete list of dependencies, please refer to the `requirements.txt` file.
 
-
-## Future Enhancements
-
-- Implement user authentication and personalized user profiles.
-- Expand the recommendation system to include user reviews and ratings.
-- Integrate with a real-time e-commerce platform for seamless product recommendations.
-- Optimize the system for scalability and performance to handle large-scale datasets.
-- Explore advanced NLP techniques and deep learning models for enhanced recommendation accuracy.
-
-## Contributing
-
-Contributions to the project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
-
-
-## License
-
-This project is licensed under the MIT License.
