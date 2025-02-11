@@ -52,6 +52,9 @@ streamlit run app.py
 
 The project utilizes the Flipkart e-commerce dataset, which contains information about various products sold on the Flipkart platform. The dataset includes details such as product name, description, category, price, brand, and more. You can replace the dataset with your own e-commerce dataset in CSV format.
 
+You can download the dataset from here: https://drive.google.com/file/d/14ry0MoJia3PFdYjdEaHRJqrr3LfLmMQO/view?usp=share_link
+
+
 ## Set up the vector database file:
 
 The project uses a large vector database file (vectorstore/index.faiss) for efficient product recommendation retrieval.
